@@ -4,7 +4,6 @@ Next.js (export statico) pronto per GitHub Pages.
 
 ## Pagine
 - `/` → versione per la tua ragazza: può aprire solo i giorni passati e quello corrente. Cliccando una casella futura il personaggio mostra disappunto 😾; una casella valida lo rende felice 🎉.
-- `/admin` → area di test (password in `data/messages.ts`): slider per simulare qualsiasi giorno, nessun salvataggio.
 
 ## Personalizzare
 - **Frasi e regali**: modifica `data/messages.ts` (una voce per giorno, 1-24).
